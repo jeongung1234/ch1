@@ -1,0 +1,26 @@
+
+div{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    color: white;
+}
+
+.inline{
+    display: inline;
+}
+
+.inline-blcok{
+    display: inline-block;
+}
+
+.block{
+    display: block;
+}
+
+.flex{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
